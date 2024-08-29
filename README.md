@@ -46,7 +46,7 @@ To set up the project locally:
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/Harshsurti10/TataSteelStockPrediction.git
+git clone https://github.com/Harshsurti10/Final_Year.git
 Navigate to the project directory:
 sh
 Copy code
